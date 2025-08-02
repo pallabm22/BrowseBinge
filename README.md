@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 BrowseBinge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually appealing movie search app built with **React**, **Tailwind CSS**, and the **TMDB API**. Instantly search for trending and popular movies, view posters, and explore movie details — all in one sleek interface.
 
-Currently, two official plugins are available:
+Live Demo 👉 [BrowseBinge on GitHub Pages](https://pallabm22.github.io/BrowseBinge/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔎 **Real-time Search** powered by TMDB API
+- 🎞️ Displays posters, titles, and overviews of movies
+- 📱 **Mobile-first** responsive design with Tailwind CSS
+- 🌙 Dark themed interface for a cinematic feel
+- 🧭 Easy navigation with React Router
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** + **Vite**
+- **Tailwind CSS** for styling
+- **TMDB API** for movie data
+- **React Router DOM** for navigation
+- **GitHub Pages** for deployment
+
+---
+
+## 📦 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/pallabm22/BrowseBinge.git
+cd BrowseBinge
+npm install
