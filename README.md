@@ -12,7 +12,6 @@ Live Demo 👉 [BrowseBinge on GitHub Pages](https://pallabm22.github.io/BrowseB
 - 🎞️ Displays posters, titles, and overviews of movies
 - 📱 **Mobile-first** responsive design with Tailwind CSS
 - 🌙 Dark themed interface for a cinematic feel
-- 🧭 Easy navigation with React Router
 
 ---
 
@@ -21,7 +20,6 @@ Live Demo 👉 [BrowseBinge on GitHub Pages](https://pallabm22.github.io/BrowseB
 - **React** + **Vite**
 - **Tailwind CSS** for styling
 - **TMDB API** for movie data
-- **React Router DOM** for navigation
 - **GitHub Pages** for deployment
 
 ---
